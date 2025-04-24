@@ -3,14 +3,6 @@ DdddOcr的C#实现版本
 
 原项目地址： [点我传送](https://github.com/sml2h3/ddddocr) 
 
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
 ### 项目底层支持 
 
 本项目是[ddddocr](https://github.com/sml2h3/ddddocr)的C#实现，因为跨语言调用太麻烦了，所以直接转成了C#，仅实现了dddocr最基础的识别验证码
