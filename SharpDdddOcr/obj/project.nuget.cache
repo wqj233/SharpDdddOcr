@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0MTlMST1MOQ=",
+  "success": true,
+  "projectFilePath": "D:\\WorkSpace\\Csharp\\SharpDdddOcr\\SharpDdddOcr\\SharpDdddOcr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.21.0\\microsoft.ml.onnxruntime.1.21.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.21.0\\microsoft.ml.onnxruntime.managed.1.21.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sixlabors.imagesharp\\3.1.7\\sixlabors.imagesharp.3.1.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.numerics.tensors\\9.0.0\\system.numerics.tensors.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
